@@ -1,0 +1,4 @@
+TEST_CASE,SQL_FILE_PATH,SQL_FILE_NAME,INCLUDE
+Employee age check,data/,employee,N
+Invoice date check,data/,invoice.sql,Y
+Order amount check,data/,orders,Y

@@ -1,0 +1,3 @@
+TEST_CASE,SQL_FILE_PATH,SQL_FILE_NAME,INCLUDE,SQL_FILE,SQL_RESULT_ROW_COUNT,TEST_RESULT
+Invoice date check,data/,invoice.sql,Y,data/invoice.sql,5,FAIL
+Order amount check,data/,orders,Y,data/orders.sql,0,PASS
